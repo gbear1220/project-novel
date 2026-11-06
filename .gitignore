@@ -1,0 +1,4 @@
+reports/*.md
+reports/*.txt
+__pycache__/
+*.pyc

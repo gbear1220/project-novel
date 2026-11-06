@@ -3,7 +3,7 @@
 > 이 문서는 **소설 집필을 위한 프로젝트 입구**입니다. 원본을 보존한 상태에서 세계관과 회차를 일관되게 관리합니다.
 
 ## 빠른 시작
-1. GitHub 저장소를 `git clone https://github.com/gbear1220/project-novel.git`으로 복제한다.
+1. 저장소를 `git clone https://github.com/gbear1220/project-novel.git`으로 복제한다.
 2. 프로젝트 폴더에서 터미널을 연다. UTF-8 환경 권장.
 3. 설치된 Codex CLI와 계정 모델 이용 권한을 확인한다.
 4. `codex -m gpt-6.1-sol` 을 실행한다. 추천 추론 수준: High.
