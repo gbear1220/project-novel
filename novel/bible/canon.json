@@ -1,0 +1,212 @@
+{
+  "schema_version": "1.0",
+  "series_meta": {
+    "title": "미정 (이세계 물리학자)",
+    "length_contract": {
+      "min_chars_with_spaces": 7000,
+      "max_chars_with_spaces": 10000,
+      "target_sweet_spot": [7500, 9200]
+    }
+  },
+  "episodes": [
+    {
+      "episode": 1,
+      "title": "경계",
+      "file": "1화 - 경계.txt",
+      "chars_with_spaces": 6965,
+      "hook_type": "C",
+      "hook_summary": "레니아가 수정구로 아이작의 산길 턱 괴기 관측",
+      "fact_locks": [
+        "정승민(아이작)은 지구 37세 사망, 흰 방 31년 상담 후 소원 4개 보유",
+        "가명 '아이작'으로 산길에 전생 완료"
+      ]
+    },
+    {
+      "episode": 2,
+      "title": "섭동",
+      "file": "2화 - 섭동.txt",
+      "chars_with_spaces": 7524,
+      "hook_type": "A",
+      "hook_summary": "감옥에서 풀려난 카라 앞에서 아이작이 따뜻한 빵을 내밀며 대면",
+      "fact_locks": [
+        "카라 나이 80세, 북쪽 토굴 10년 연구는 헬레니아 불꽃에 전소됨",
+        "아이작은 1코어 형성 및 빵 연성진 가동으로 서쪽 계곡 마나 고갈시킴"
+      ]
+    },
+    {
+      "episode": 3,
+      "title": "파동",
+      "file": "3화 - 파동.txt",
+      "chars_with_spaces": 8352,
+      "hook_type": "C",
+      "hook_summary": "고룡 바르카온이 시간 잔상으로 빵 굽던 아이작을 확인하고 실바니아로 이동",
+      "fact_locks": [
+        "아이작은 실바니아 지하 구금소 독방(흰 나무 창살+녹빛 결계) 3일째 수감 중",
+        "아이작 독방에는 아직 종이와 목탄 등 필기도구가 없음",
+        "카라는 근신 중 마직 튜닉 차림이며 내일 종이와 목탄을 들고 재방문 약속",
+        "고룡 바르카온은 노을/달빛 진 서쪽 공터에서 실바니아를 향해 걸어오는 중"
+      ]
+    }
+  ],
+  "characters": [
+    {
+      "id": "isaac",
+      "name": "아이작",
+      "aliases": ["정승민", "승민"],
+      "status": "alive",
+      "location": "실바니아 지하 구금소 독방"
+    },
+    {
+      "id": "kara",
+      "name": "카라",
+      "aliases": [],
+      "status": "alive",
+      "location": "실바니아 (근신 중)"
+    },
+    {
+      "id": "renia",
+      "name": "레니아",
+      "aliases": [],
+      "status": "alive",
+      "location": "천계 제3구역 카페 암브로시아"
+    },
+    {
+      "id": "barkaon",
+      "name": "바르카온",
+      "aliases": [],
+      "status": "alive",
+      "location": "서쪽 계곡에서 실바니아로 이동 중"
+    },
+    {
+      "id": "helenia",
+      "name": "헬레니아",
+      "aliases": ["대사제"],
+      "status": "alive",
+      "location": "실바니아 성소"
+    },
+    {
+      "id": "seran",
+      "name": "세란",
+      "aliases": [],
+      "status": "alive",
+      "location": "서쪽 계곡 공터 조사단"
+    },
+    {
+      "id": "valen",
+      "name": "발렌",
+      "aliases": [],
+      "status": "alive",
+      "location": "서쪽 계곡 공터 조사단"
+    },
+    {
+      "id": "roen",
+      "name": "로엔",
+      "aliases": [],
+      "status": "alive",
+      "location": "실바니아 지하 구금소"
+    },
+    {
+      "id": "erin",
+      "name": "에린",
+      "aliases": [],
+      "status": "alive",
+      "location": "실바니아"
+    }
+  ],
+  "promises": [
+    {
+      "id": "P-01",
+      "planted_ep": 1,
+      "due_by_ep": 12,
+      "paid_ep": null,
+      "summary": "아이작이 레니아에게서 받은 소원 4개의 정체",
+      "keywords": ["소원", "네 가지", "네 번째"]
+    },
+    {
+      "id": "P-02",
+      "planted_ep": 1,
+      "due_by_ep": 15,
+      "paid_ep": null,
+      "summary": "레니아의 재회 시 보복 경고 및 실시간 관측",
+      "keywords": ["레니아", "수정구", "감사팀"]
+    },
+    {
+      "id": "P-03",
+      "planted_ep": 3,
+      "due_by_ep": 7,
+      "paid_ep": null,
+      "summary": "정령의 인장과 마나코어의 위상 조절·주파수 대역 분리 양립 가설",
+      "keywords": ["위상", "주파수", "공명", "대역"]
+    },
+    {
+      "id": "P-04",
+      "planted_ep": 3,
+      "due_by_ep": 4,
+      "paid_ep": null,
+      "summary": "카라의 종이와 목탄 지참 독방 재방문 약속",
+      "keywords": ["목탄", "종이"]
+    },
+    {
+      "id": "P-05",
+      "planted_ep": 3,
+      "due_by_ep": 4,
+      "paid_ep": null,
+      "summary": "바르카온의 실바니아 도래 및 아이작 대면",
+      "keywords": ["바르카온"]
+    },
+    {
+      "id": "P-06",
+      "planted_ep": 2,
+      "due_by_ep": 8,
+      "paid_ep": null,
+      "summary": "도형 오차 자가보정 원리 및 완충 문양 생략의 대가",
+      "keywords": ["완충", "보정", "오차"]
+    }
+  ],
+  "future_locked_secrets": [
+    {
+      "id": "SEC-01",
+      "unlock_ep": 8,
+      "description": "아이작의 소원 4개 전체 목록 일괄 폭로 금지 (사건별로 순차 공개)",
+      "forbidden_keywords": ["네 번째 소원까지 전부", "소원 목록 전체"]
+    },
+    {
+      "id": "SEC-02",
+      "unlock_ep": 10,
+      "description": "레니아 이세계 직접 강림 해결사 개입 금지",
+      "forbidden_keywords": ["레니아가 직접 강림", "레니아가 숲에 내려"]
+    },
+    {
+      "id": "SEC-03",
+      "unlock_ep": 7,
+      "description": "카라의 정령 인장+마나코어 양립 즉시 성공 금지 (충분한 실패/검증 필수)",
+      "forbidden_keywords": ["마나코어와 인장이 완벽하게 양립에 성공", "듀얼 코어 완성"]
+    }
+  ],
+  "knowledge_limits": [
+    {
+      "character": "로엔",
+      "until_ep": 10,
+      "forbidden_keywords": ["아밀로스", "탄닌", "염화마그네슘", "위상"]
+    },
+    {
+      "character": "발렌",
+      "until_ep": 10,
+      "forbidden_keywords": ["마이야르", "전분", "아미노산", "위상"]
+    }
+  ],
+  "anachronism_traps": [
+    {
+      "id": "TRAP-CLOTHES-KARA",
+      "pattern": "카라.{0,20}치맛자락",
+      "reason": "카라는 사제복 또는 3화 이후 수수한 마직 튜닉 차림임(치맛자락 설정 충돌)",
+      "exclude_if_near": []
+    },
+    {
+      "id": "TRAP-WHITE-ROOM-CLOCK",
+      "pattern": "흰\\s*방.{0,25}손목시계|흰\\s*방.{0,25}벽시계",
+      "reason": "흰 방에는 자와 시계가 없음(1화 설정)",
+      "exclude_if_near": ["천계의 업무 시계"]
+    }
+  ]
+}
